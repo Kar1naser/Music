@@ -1,6 +1,7 @@
 
 
 ```
+music播放器
 1、进入Login欢迎界面，通过sendEmptyMessageDelayed延迟1s，然后跳转至登录界面mainactivity
 2、注册是使用SharedPreferences临时储存实现
 3、使用mediaPlayer播放器播放音乐，通过设定全局变量标记当前歌曲的id、标记当前播放状态，循环播放还是随机播放，标记当前歌曲是否正在播放
